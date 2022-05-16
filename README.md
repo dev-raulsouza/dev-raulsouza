@@ -18,8 +18,5 @@
  
 <div> 
   <a href = "mailto:dev.raulsouza@icloud.com"><img width=30px heigth=30px src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/raul-d-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/dev-raulsouza/dev-raulsouza/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://www.linkedin.com/in/raul-d-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
