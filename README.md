@@ -57,17 +57,6 @@
   </a>
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/dev-raulsouza">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=dev-raulsouza&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
-    />
-  </a>
-</a>
-</p>
-
 <h3 align="center">Working on:</h3>
 
 <p align="center">
