@@ -30,6 +30,9 @@
    <a href="https://angular.io/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
    </a>
+   <a href="https://flutter.dev/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="angular" width="40" height="40"/>
+   </a>
 </p>
 
 <h4 align="center">
