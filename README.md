@@ -60,11 +60,11 @@
 <h3 align="center">Working on:</h3>
 
 <p align="center">
-  <a href="[https://github.com/dev-raulsouza/django-react-todo-list](https://github.com/dev-raulsouza/django-react-todo-list.git)">
+  <a href="https://github.com/dev-raulsouza/django-react-todo-list">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=dev-raulsouza&repo=app-maisvistorias&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dev-raulsouza&repo=django-react-todo-list&theme=tokyonight">
     </img>
   </a>
 </p>
