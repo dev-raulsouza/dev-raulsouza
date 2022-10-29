@@ -60,7 +60,7 @@
 <h3 align="center">Working on:</h3>
 
 <p align="center">
-  <a href="https://github.com/dev-raulsouza/app-maisvistorias">
+  <a href="https://github.com/dev-raulsouza/django-react-todo-list">
     <img
       align="center"
       height="120em"
